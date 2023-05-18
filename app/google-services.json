@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37086282693",
+    "project_id": "collegerevamp-5079a",
+    "storage_bucket": "collegerevamp-5079a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37086282693:android:a044da9afd321a068a81ac",
+        "android_client_info": {
+          "package_name": "com.octovalley.collegerevamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37086282693-ol5oe3que3lq1ucg7r7sbl37jms13s12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABfDT8nN7ShnHp728F3D23T9CVGooujME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37086282693-ol5oe3que3lq1ucg7r7sbl37jms13s12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
